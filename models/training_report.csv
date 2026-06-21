@@ -1,0 +1,8 @@
+model,accuracy
+K-NN,0.9333333333333333
+Random Forest,0.9333333333333333
+AdaBoost,0.9333333333333333
+Gradient Boosting,0.9333333333333333
+Ensemble (Soft Voting),0.9333333333333333
+Naive Bayes,0.9
+Decision Tree,0.7666666666666667
